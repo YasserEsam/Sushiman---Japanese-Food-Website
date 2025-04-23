@@ -2,11 +2,13 @@
 
 This is a responsive Japanese food website created using HTML and CSS, with scroll animations powered by AOS (Animate On Scroll). The website is inspired by the **JavaScript Mastery** YouTube channel.
 
-![Sushiman Screenshot](./assets/screenshot.png)
-
 ## Live Version
 
-Check out the live version of the website here: [Live Demo](#) (Replace `#` with the actual URL)
+Check out the live version of the website here: [Live Demo](https://yasseresam.github.io/Sushiman---Japanese-Food-Website/)
+
+![Sushiman Screenshot](./assets/screenshot.png)
+
+
 
 ## Features
 
